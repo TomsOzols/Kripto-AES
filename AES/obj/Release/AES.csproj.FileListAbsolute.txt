@@ -1,0 +1,6 @@
+C:\Users\toms.ozols\documents\visual studio 2015\Projects\AES\AES\bin\Release\AES.exe.config
+C:\Users\toms.ozols\documents\visual studio 2015\Projects\AES\AES\bin\Release\AES.exe
+C:\Users\toms.ozols\documents\visual studio 2015\Projects\AES\AES\bin\Release\AES.pdb
+C:\Users\toms.ozols\documents\visual studio 2015\Projects\AES\AES\obj\Release\AES.csprojResolveAssemblyReference.cache
+C:\Users\toms.ozols\documents\visual studio 2015\Projects\AES\AES\obj\Release\AES.exe
+C:\Users\toms.ozols\documents\visual studio 2015\Projects\AES\AES\obj\Release\AES.pdb
